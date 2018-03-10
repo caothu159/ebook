@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">71</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ab00e064-d7aa-49af-b580-d5a4ce6be53d</dc:identifier>
+        <dc:title>Con Duong Lap Than</dc:title>
+        <dc:creator opf:file-as="Le, Nguyen Hien" opf:role="aut">Nguyen Hien Le</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.15.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-01-19T17:00:00+00:00</dc:date>
+        <dc:publisher>Tran Ngoc Duc</dc:publisher>
+        <dc:language>vie</dc:language>
+        <meta content="{&quot;Nguyen Hien Le&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-01-19T19:09:25.646752+00:00" name="calibre:timestamp"/>
+        <meta content="Con Duong Lap Than" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

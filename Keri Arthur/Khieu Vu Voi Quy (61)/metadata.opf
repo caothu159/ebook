@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">61</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">29db432c-f549-4613-ae8f-c22a89295c9b</dc:identifier>
+        <dc:title>Khiêu Vũ Với Quỷ</dc:title>
+        <dc:creator opf:file-as="Arthur, Keri" opf:role="aut">Keri Arthur</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.15.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-05-20T17:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Là cuốn đầu tiên trong bộ truyện giả tưởng 4 cuốn (Khiêu vũ với Quỷ, Trái tim trong bóng tối, Đuổi theo bóng tối, Nụ hôn tạm biệt bóng đêm) viết về Nikki và Micheal, Khiêu vũ với Quỷ (Dancing With The Devil) thật sự là một cuốn sách đáng để đọc không bởi tình tiết ly kỳ của những màn rượt đuổi gấp gáp, sự giằng xé trong mỗi nhân vật, mà bằng ngòi bút hư cấu tài tình của mình, tác giả Keri Arthur đã mang đến cho bạn đọc một câu chuyện tình yêu đầy cảm độn giữa hai nhân vật tuy thuộc hai thế giới hoàn toàn khác nhau nhưng đã vượt qua tất cả để đến bên nhau.&lt;/p&gt;
+&lt;p&gt;Một tình yêu mãnh liệt, một tương lai đầy thử thách đã khiến khiêu vũ với Quỷ trở thành một trong những cuốn sách đáng đọc nhất trong năm “là cuốn đầu tiên của bộ truyện hay, câu chuyện ma cà rồng lãng mạn đến tuyệt vời này sẽ khiến bạn đọc luôn muốn đọc thêm nữa và muốn sưu tầm cho đủ bộ.”&lt;/p&gt;</dc:description>
+        <dc:language>vie</dc:language>
+        <meta content="{&quot;Keri Arthur&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-01-19T19:09:23.259791+00:00" name="calibre:timestamp"/>
+        <meta content="Khiêu Vũ Với Quỷ" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

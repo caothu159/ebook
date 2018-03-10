@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">68</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b9d62205-479e-455c-9a6c-4eac5f412604</dc:identifier>
+        <dc:title>Đề thi Đẫm Máu</dc:title>
+        <dc:creator opf:file-as="Mễ, Lôi" opf:role="aut">Lôi Mễ</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.15.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-01-19T17:00:00+00:00</dc:date>
+        <dc:publisher>Tran Ngoc Duc</dc:publisher>
+        <dc:language>vie</dc:language>
+        <meta content="{&quot;Lôi Mễ&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Trinh thám" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2018-01-19T19:09:24.952171+00:00" name="calibre:timestamp"/>
+        <meta content="Đề thi Đẫm Máu" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">55</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b497a4bb-e0a6-4e09-bd02-491b1540c608</dc:identifier>
+        <dc:title>Người Đàn Bà Đáng Ngờ</dc:title>
+        <dc:creator opf:file-as="Gardner, Erle Stanley" opf:role="aut">Erle Stanley Gardner</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.15.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1988-08-10T17:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p class="description"&gt;cô Ambler cứ nằng nặc đề nghị vạch bụng cho luật sư trứ danh Perry Mason xem vết sẹo với sự chứng kiến của nhà thám tử tài ba Paul Drake. Ngay sau đó Ambler ra phi trường Los Angeles bắn ba phát súng đạn giả ở nơi đông người rồi chạy biến vào khu vệ sinh. Cảnh sát ập tới bắt được một cô gái có thân hình, mặt mày, trang phục giống hệt như Ambler nhưng lại là - cô gái triệu phú Minerva Minden …&lt;/p&gt;&lt;p class="description"&gt;&lt;br&gt;&lt;/p&gt; &lt;/div&gt;</dc:description>
+        <dc:language>vie</dc:language>
+        <meta content="{&quot;Erle Stanley Gardner&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Perry Mason" name="calibre:series"/>
+        <meta content="71" name="calibre:series_index"/>
+        <meta content="2018-01-19T19:09:21.843786+00:00" name="calibre:timestamp"/>
+        <meta content="Người Đàn Bà Đáng Ngờ" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

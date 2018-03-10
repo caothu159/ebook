@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">70</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b58806c5-8aad-4984-9f0c-3822bfca5c2a</dc:identifier>
+        <dc:title>Chuyện không công bố của Sherlock Holmes</dc:title>
+        <dc:creator opf:file-as="Kuin, Enleri" opf:role="aut">Enleri Kuin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.15.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-04-22T22:58:52+00:00</dc:date>
+        <dc:language>vie</dc:language>
+        <meta content="{&quot;Enleri Kuin&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-01-19T19:09:25.408131+00:00" name="calibre:timestamp"/>
+        <meta content="Chuyện không công bố của Sherlock Holmes" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

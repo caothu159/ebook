@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">77</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1e6def9b-02c8-4a34-b8a7-1f36465081df</dc:identifier>
+        <dc:title>Những đòn tâm lý trong thuyết phục</dc:title>
+        <dc:creator opf:file-as="Cialdini, Rober B." opf:role="aut">Rober B. Cialdini</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.15.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-01-19T17:00:00+00:00</dc:date>
+        <dc:publisher>Tran Ngoc Duc</dc:publisher>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Rober B. Cialdini&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-01-19T20:12:20+00:00" name="calibre:timestamp"/>
+        <meta content="Những đòn tâm lý trong thuyết phục" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

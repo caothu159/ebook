@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c7c77bcd-69c0-47a2-92cd-0d51a2251342</dc:identifier>
+        <dc:title>Nữ sinh</dc:title>
+        <dc:creator opf:file-as="Ánh, Nguyễn Nhật" opf:role="aut">Nguyễn Nhật Ánh</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.15.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-01-17T17:00:00+00:00</dc:date>
+        <dc:publisher>Tran Ngoc Duc</dc:publisher>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Nguyễn Nhật Ánh&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-01-17T18:01:12+00:00" name="calibre:timestamp"/>
+        <meta content="Nữ sinh" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

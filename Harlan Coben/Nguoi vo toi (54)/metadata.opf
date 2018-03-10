@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">54</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">456b12f7-72c7-49db-b538-a34aca0eae2e</dc:identifier>
+        <dc:title>Người vô tội</dc:title>
+        <dc:creator opf:file-as="Coben, Harlan" opf:role="aut">Harlan Coben</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.15.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-04-22T23:22:15+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p style="text-align:center;"&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Chín năm sau khi phải nhận án tù vì tội ngộ sát, Matt Hunter đã có một cuộc đời mới - người vợ Olivia xinh đẹp và chung thuỷ của anh đang mang thai đứa con đầu lòng và hai vợ chồng sắp mua được ngôi nhà trong mơ của họ. Nhưng rồi, một cuộc điện thoại anh nhận được từ máy di động của Olivia, một bằng chứng hiển nhiên của vụ ngoại tình, ba cái chết bí ẩn, sự can thiệp khó hiểu của cảnh sát liên bang… Những bóng ma của quá khứ lại trỗi dậy, nhưng liệu chúng đang đeo đuổi ai…&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:language>vie</dc:language>
+        <meta content="{&quot;Harlan Coben&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-01-19T19:09:21.604307+00:00" name="calibre:timestamp"/>
+        <meta content="Người vô tội" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

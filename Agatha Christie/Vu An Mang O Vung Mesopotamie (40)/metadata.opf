@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">40</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ca235b10-2a90-47c2-92dd-758b86e781b3</dc:identifier>
+        <dc:title>Vụ Án Mạng Ở Vùng Mesopotamie</dc:title>
+        <dc:creator opf:file-as="Agatha Christie" opf:role="aut">Agatha Christie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.15.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p style="text-align:center;"&gt;&lt;br&gt;&lt;/p&gt;&lt;div&gt;&lt;p&gt;Y tá Leatheran đồng ý đến chăm nom cho vợ của tiến sĩ khảo cổ học Leidner, và rồi cô thấy nhiệm vụ của mình còn là hỗ trợ phá án. Hercule Poiro đến thăm khu khai quật, nhưng liệu ông có giúp ngăn cản hung thủ gia tay lần tới được chăng?"&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
+        <dc:language>vie</dc:language>
+        <meta content="{&quot;Agatha Christie&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Hercule Poirot Investigates" name="calibre:series"/>
+        <meta content="14" name="calibre:series_index"/>
+        <meta content="2018-01-19T19:09:17.598796+00:00" name="calibre:timestamp"/>
+        <meta content="Vụ Án Mạng Ở Vùng Mesopotamie" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

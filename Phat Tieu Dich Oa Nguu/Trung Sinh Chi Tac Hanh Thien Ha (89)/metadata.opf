@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">89</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">18079a36-c482-4bd8-8755-a677ac80d07e</dc:identifier>
+        <dc:title>Trùng Sinh Chi Tặc Hành Thiên Hạ</dc:title>
+        <dc:creator opf:file-as="Ngưu, Phát Tiêu Đích Oa" opf:role="aut">Phát Tiêu Đích Oa Ngưu</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.15.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-01-19T17:00:00+00:00</dc:date>
+        <dc:publisher>Tran Ngoc Duc</dc:publisher>
+        <dc:language>en</dc:language>
+        <dc:subject>Võng Du - Trùng Sinh</dc:subject>
+        <meta content="{&quot;Phát Tiêu Đích Oa Ngưu&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-01-19T21:48:52.708173+00:00" name="calibre:timestamp"/>
+        <meta content="Trùng Sinh Chi Tặc Hành Thiên Hạ" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

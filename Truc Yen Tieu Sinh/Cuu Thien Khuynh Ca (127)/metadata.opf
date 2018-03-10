@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">127</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7a697a89-6c8c-4625-b1c6-5103e863302b</dc:identifier>
+        <dc:title>Cửu Thiên Khuynh Ca</dc:title>
+        <dc:creator opf:file-as="Sinh, Trúc Yến Tiểu" opf:role="aut">Trúc Yến Tiểu Sinh</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.15.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-01-19T17:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;h1 class="calibre1"&gt;Giới thiệu Cửu Thiên Khuynh Ca&lt;/h1&gt;
+&lt;p&gt;Truyện Cửu Thiên Khuynh Ca của tác giả Trúc Yến Tiểu Sinh là một truyện ngôn tình cổ đại. Mãnh liệt nhất, đớn đau nhất, say đắm nhất phải là việc nàng mở từng lớp khóa trái tim mỏng manh để đặt vào đó cái tên Trọng Uyên.&lt;/p&gt;
+&lt;p&gt;Chàng không phải là Đông phương Thanh đế Phục Nghi trong sách ghi chép, cũng không phải là Nguyệt Hoa thượng thần Phất Tức của hiện tại, chàng chỉ là người sẵn sàng chịu ba trăm lôi hình thay nàng nơi Lôi Trạch, dám bỏ hết công lao tu tập ngàn năm vì nàng… Rốt cuộc là thứ tình yêu gì lại có thể khiến chàng tình nguyện hy sinh tất cả vì nàng?&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Tran Ngoc Duc</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Trúc Yến Tiểu Sinh&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-01-20T01:51:07.133869+00:00" name="calibre:timestamp"/>
+        <meta content="Cửu Thiên Khuynh Ca" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

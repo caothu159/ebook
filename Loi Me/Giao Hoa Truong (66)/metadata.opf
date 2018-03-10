@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">66</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bc718a21-92c1-41b9-9756-eadae5568a21</dc:identifier>
+        <dc:title>Giáo Hóa Trường</dc:title>
+        <dc:creator opf:file-as="Mễ, Lôi" opf:role="aut">Lôi Mễ</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.15.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-01-19T17:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;b&gt;Tác giả: Lôi Mễ&lt;/b&gt;&lt;/p&gt; &lt;p&gt;&lt;b&gt;Editor: Bánh Tiêu&lt;/b&gt;&lt;/p&gt; &lt;p&gt;&lt;b&gt;Ebook: HitZ&lt;/b&gt;&lt;/p&gt; &lt;p&gt;&lt;b&gt;Thể loại: Hình sự trinh thám (18+)&lt;/b&gt;&lt;/p&gt; &lt;p&gt;&lt;i&gt;Bản edit này được làm ra bởi sở thích cá nhân, phi thương mại. Mọi bài viết đăng tải bản edit và ebook này sang nơi khác vui lòng ghi rõ nguồn dịch. Chúc các bạn hài lòng với quyển sách này.&lt;/i&gt;&lt;/p&gt; &lt;p&gt;Đây là quyển thứ ba (sau Đề Thi Đẫm Máu) trong một loạt truyện trinh thám về tâm lý tội phạm của Lôi Mễ: Độc giả thứ 7, Chân dung tâm lý tội phạm - Đề thi đẫm máu, Trường giáo hóa tâm lý tội phạm, Dòng chảy ngầm của tâm lý tội phạm.&lt;/p&gt; &lt;p&gt; &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Tran Ngoc Duc</dc:publisher>
+        <dc:language>vie</dc:language>
+        <meta content="{&quot;Lôi Mễ&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Trinh thám" name="calibre:series"/>
+        <meta content="3" name="calibre:series_index"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2018-01-19T19:09:24.519763+00:00" name="calibre:timestamp"/>
+        <meta content="Giáo Hóa Trường" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

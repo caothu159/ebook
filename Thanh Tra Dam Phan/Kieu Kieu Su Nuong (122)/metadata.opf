@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">122</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3cd9d472-ecd5-4ceb-82ac-eeabc9f5dd0a</dc:identifier>
+        <dc:title>Kiều Kiều Sư Nương</dc:title>
+        <dc:creator opf:file-as="Phạn, Thanh Trà Đạm" opf:role="aut">Thanh Trà Đạm Phạn</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.15.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-01-19T17:00:00+00:00</dc:date>
+        <dc:publisher>Tran Ngoc Duc</dc:publisher>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Thanh Trà Đạm Phạn&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2" name="calibre:rating"/>
+        <meta content="2018-01-19T21:49:16.484310+00:00" name="calibre:timestamp"/>
+        <meta content="Kiều Kiều Sư Nương" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

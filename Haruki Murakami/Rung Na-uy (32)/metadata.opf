@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">22a67dbf-c229-4d9d-9d28-b290a070cd9a</dc:identifier>
+        <dc:title>Rừng Na-uy</dc:title>
+        <dc:creator opf:file-as="Murakami, Haruki" opf:role="aut">Haruki Murakami</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.15.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-01-19T17:00:00+00:00</dc:date>
+        <dc:description>Mối tình sâu sắc nhất của bạn có gắn liền với một bài hát nào không? Một cảnh trí nào không? Như một căn phòng trong đêm mưa mùa hạ? Một chiều thu ngoài bìa rừng hoang vắng? Rừng Na-uy là tên một bài hát của nhóm nhạc Beatles nổi tiếng. Lời cả có những câu "Tôi từng có một cô gái, mà có lẽ đúng hơn là cô ấy đã từng có tôi… Cô dẫn tôi vào phòng và bảo tôi ngồi đâu cũng được, nhưng tôi thấy chẳng có chiếc ghế nào… Khi tỉnh dậy tôi chỉ có một mình, con chim ấy đã bay đi rồi…" Giai điệu và cấu trúc bài hát rất giản dị. Những sự kiện làm biến đổi cả cuộc đời ta thường gắn liền với những cái ngẫu nhiên giản dị. Ký ức khi đã trưởng thành thường cũng chỉ xúc động vì những điều giản dị. Và Rừng Na-uy là một câu chuyện tình yêu giản dị.</dc:description>
+        <dc:publisher>Tran Ngoc Duc</dc:publisher>
+        <dc:language>vie</dc:language>
+        <meta content="{&quot;Haruki Murakami&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-01-19T17:41:53.241580+00:00" name="calibre:timestamp"/>
+        <meta content="Rừng Na-uy" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

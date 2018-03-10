@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">114</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">80f2b2df-5435-4e7d-a39c-9cdcf80eb9c9</dc:identifier>
+        <dc:title>Cửu Thiên Chiến Đế</dc:title>
+        <dc:creator opf:file-as="Bút, Đề" opf:role="aut">Đề Bút</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.15.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-01-19T17:00:00+00:00</dc:date>
+        <dc:publisher>Tran Ngoc Duc</dc:publisher>
+        <dc:language>en</dc:language>
+        <dc:subject>Huyền Ảo</dc:subject>
+        <meta content="{&quot;Đề Bút&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-01-19T21:49:03.253585+00:00" name="calibre:timestamp"/>
+        <meta content="Cửu Thiên Chiến Đế" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">64</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">29ad95a8-e770-4f3e-b145-3532aa1a527c</dc:identifier>
+        <dc:title>Hồ Sơ Tâm Lý Phạm Tội</dc:title>
+        <dc:creator opf:file-as="Ấn, Cương Tuyết" opf:role="aut">Cương Tuyết Ấn</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.15.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-04-20T17:00:00+00:00</dc:date>
+        <dc:language>vie</dc:language>
+        <meta content="{&quot;Cương Tuyết Ấn&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-01-19T19:09:24.024077+00:00" name="calibre:timestamp"/>
+        <meta content="Hồ Sơ Tâm Lý Phạm Tội" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

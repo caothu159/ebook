@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">41</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1772d027-2ef6-44a0-a1e7-3aefa6a72961</dc:identifier>
+        <dc:title>Việc Máu</dc:title>
+        <dc:creator opf:file-as="Connelly, Michael" opf:role="aut">Michael Connelly</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.15.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Terry McCaleb không ở đỉnh cao phong độ của một đặc vụ FBI dày dặn kinh nghiệm. Ông mới ngoài bốn mươi tuổi, lẽ ra vẫn còn có thể tiếp tục cày xới thế giới tội ác ở Los Angeles, nhưng trái tim của ông đã đầu hàng, ông phải thay tim và thấy trước mặt mình một cuộc sống khác hẳn.&lt;/p&gt; &lt;p&gt; &lt;/p&gt; &lt;p&gt;Rồi người phụ nữ đó xuất hiện, không hề báo trước, ngay tại nơi trú ẩn tuổi già của ông. Và McCaleb buộc phải gắng gượng tìm lại phong độ tưởng chừng đã vĩnh viễn mất đi, lần mò theo những lối đi gian nan nhất của sa mạc và của trí tuệ, với một trái tim của người khác đập trong lồng ngực. Terry McCaleb và Graciela Torres bỗng chốc khám phá ra rất nhiều điều bí ẩn của các tội ác, cũng như bí ẩn trong mối quan hệ tình cảm con người.&lt;/p&gt; &lt;p&gt; &lt;/p&gt; &lt;p&gt; &lt;/p&gt;Michael Connelly ở độ chín của tài năng và phong cách, một cuốn tiểu thuyết trinh thám có nhịp điệu mạnh liên hồi, tàn khốc nhưng không mất đi sự mềm mại, nhân bản, thậm chí là lãng mạn.&lt;/div&gt;</dc:description>
+        <dc:language>vie</dc:language>
+        <meta content="{&quot;Michael Connelly&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-01-19T19:09:18.051343+00:00" name="calibre:timestamp"/>
+        <meta content="Việc Máu" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

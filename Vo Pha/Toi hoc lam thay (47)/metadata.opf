@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">47</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ddd229c4-cbc3-4de5-b388-9f4a301ae862</dc:identifier>
+        <dc:title>Toi hoc lam thay</dc:title>
+        <dc:creator opf:file-as="Pha, Vo" opf:role="aut">Vo Pha</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.15.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;Truyện: Tôi Học Làm Thầy&lt;br&gt;Tác giả: Võ Phá&lt;br&gt;Tạo bởi: Pham Huy Hung&lt;/p&gt;</dc:description>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Vo Pha&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-01-19T19:09:19.864374+00:00" name="calibre:timestamp"/>
+        <meta content="Toi hoc lam thay" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
