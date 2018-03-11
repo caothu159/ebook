@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">107</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">627ccfdb-b526-4236-a877-4298442260bb</dc:identifier>
+        <dc:title>Thương Trường Đại Chiến</dc:title>
+        <dc:creator opf:file-as="Mộng, Biên Chức Thành Đích" opf:role="aut">Biên Chức Thành Đích Mộng</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.15.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-03-09T17:00:00+00:00</dc:date>
+        <dc:publisher>Tran Ngoc Duc</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Biên Chức Thành Đích Mộng&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-01-19T21:48:59+00:00" name="calibre:timestamp"/>
+        <meta content="Thương Trường Đại Chiến" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

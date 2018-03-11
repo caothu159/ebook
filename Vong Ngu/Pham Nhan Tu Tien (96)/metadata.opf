@@ -6,11 +6,11 @@
         <dc:title>Pham Nhan Tu Tien</dc:title>
         <dc:creator opf:file-as="Ngữ, Vong" opf:role="aut">Vong Ngữ</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.15.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
-        <dc:publisher>daotieuvu.blogspot.com</dc:publisher>
+        <dc:date>2018-03-09T17:00:00+00:00</dc:date>
+        <dc:publisher>Tran Ngoc Duc</dc:publisher>
         <dc:language>vie</dc:language>
         <meta content="{&quot;Vong Ngữ&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2018-01-19T21:48:55.717087+00:00" name="calibre:timestamp"/>
+        <meta content="2018-01-19T21:48:55+00:00" name="calibre:timestamp"/>
         <meta content="Pham Nhan Tu Tien" name="calibre:title_sort"/>
     </metadata>
     <guide>

@@ -3,14 +3,15 @@
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">49</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">2f123187-d29c-472d-8b45-6033055e187b</dc:identifier>
-        <dc:title>Tinh Ma</dc:title>
-        <dc:creator opf:file-as="Trang, Nguoi Khan" opf:role="aut">Nguoi Khan Trang</dc:creator>
+        <dc:title>Tình Ma</dc:title>
+        <dc:creator opf:file-as="Trắng, Người Khăn" opf:role="aut">Người Khăn Trắng</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.15.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>2010-04-17T17:00:00+00:00</dc:date>
+        <dc:date>2018-03-09T17:00:00+00:00</dc:date>
+        <dc:publisher>Tran Ngoc Duc</dc:publisher>
         <dc:language>eng</dc:language>
-        <meta content="{&quot;Nguoi Khan Trang&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2018-01-19T19:09:20.344271+00:00" name="calibre:timestamp"/>
-        <meta content="Tinh Ma" name="calibre:title_sort"/>
+        <meta content="{&quot;Người Khăn Trắng&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-01-19T19:09:20+00:00" name="calibre:timestamp"/>
+        <meta content="Tình Ma" name="calibre:title_sort"/>
     </metadata>
     <guide>
         <reference href="cover.jpg" title="Cover" type="cover"/>

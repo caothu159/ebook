@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">104</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8a166430-d8fd-479c-b56a-104b926a22b1</dc:identifier>
+        <dc:title>Y Tiên Thiểu</dc:title>
+        <dc:creator opf:file-as="Trục, Vô" opf:role="aut">Vô Trục</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.15.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-03-09T17:00:00+00:00</dc:date>
+        <dc:publisher>Tran Ngoc Duc</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Vô Trục&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-01-19T21:48:58+00:00" name="calibre:timestamp"/>
+        <meta content="Y Tiên Thiểu" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

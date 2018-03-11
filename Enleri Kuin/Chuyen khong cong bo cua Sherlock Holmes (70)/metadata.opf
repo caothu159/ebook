@@ -7,9 +7,10 @@
         <dc:creator opf:file-as="Kuin, Enleri" opf:role="aut">Enleri Kuin</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.15.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2012-04-22T22:58:52+00:00</dc:date>
+        <dc:publisher>Tran Ngoc Duc</dc:publisher>
         <dc:language>vie</dc:language>
         <meta content="{&quot;Enleri Kuin&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2018-01-19T19:09:25.408131+00:00" name="calibre:timestamp"/>
+        <meta content="2018-01-19T19:09:25+00:00" name="calibre:timestamp"/>
         <meta content="Chuyện không công bố của Sherlock Holmes" name="calibre:title_sort"/>
     </metadata>
     <guide>

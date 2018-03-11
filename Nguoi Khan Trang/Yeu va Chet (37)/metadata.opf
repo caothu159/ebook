@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">37</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ee6bc9b4-54c2-4337-86d7-c74e9267368c</dc:identifier>
+        <dc:title>Yêu và Chết</dc:title>
+        <dc:creator opf:file-as="Trắng, Người Khăn" opf:role="aut">Người Khăn Trắng</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.15.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-03-09T17:00:00+00:00</dc:date>
+        <dc:publisher>Tran Ngoc Duc</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Người Khăn Trắng&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-01-19T19:09:16+00:00" name="calibre:timestamp"/>
+        <meta content="Yêu và Chết" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
