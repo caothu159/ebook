@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">58b8e2ee-455b-445b-9d0c-06091e34243d</dc:identifier>
         <dc:title>Đại Chúa Tể</dc:title>
         <dc:creator opf:file-as="Đậu, Thiên Tằm Thổ" opf:role="aut">Thiên Tằm Thổ Đậu</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.15.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.19.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2018-03-09T17:00:00+00:00</dc:date>
         <dc:publisher>Tran Ngoc Duc</dc:publisher>
         <dc:language>vie</dc:language>

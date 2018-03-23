@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">128</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b6e29591-05a9-47b7-a98c-5b7c8bb31427</dc:identifier>
+        <dc:title>Đừng Nói Chuyện Với Cô Ấy</dc:title>
+        <dc:creator opf:file-as="Cẩn, Ngộ" opf:role="aut">Ngộ Cẩn</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.15.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-03-11T17:00:00+00:00</dc:date>
+        <dc:publisher>Tran Ngoc Duc</dc:publisher>
+        <dc:identifier opf:scheme="MD5">d522f42753ea78758dade923ab278064</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Ngộ Cẩn&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-03-12T04:52:39.480990+00:00" name="calibre:timestamp"/>
+        <meta content="Đừng Nói Chuyện Với Cô Ấy" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
